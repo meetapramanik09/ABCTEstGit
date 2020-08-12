@@ -7,8 +7,8 @@
  additional changessdfgfdsaeweewsdgefsdbfeewsdfde zdfzdsfzrsfrdfbgfd
  ------------------------------------------------------------------------------------------*/
 public with sharing class AccountController {
+  //Added for Git Reo PR
   public static List<Account> getAtAllActiveAccountsToRepo() {
-    //aded
     return [SELECT Id,Name,Active__c FROM Account WHERE Active__c = 'Yes'];
   }
   
