@@ -5,7 +5,7 @@
  * Author: Meeta Pramanik 
 ------------------------------------------------------------------------------------------*/
 public class AR_AccountDuplicate_Helper {
-      //Added for Git Reo PR
+    //PR coment
     //Added a comment for UST 03
     //modified to test
        Public List<Account> CreateAccount(String s, String p){
