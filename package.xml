@@ -182,6 +182,7 @@
     </types>
     <types>
         <members>Bot</members>
+        <members>ContactsToday</members>
         <members>DaysOnMarketEstimator</members>
         <members>EinsteinVision</members>
         <members>EinsteinVisionCard</members>
@@ -207,6 +208,7 @@
         <members>PropertyTile</members>
         <members>PropertyTileList</members>
         <members>RangeChange</members>
+        <members>SCATest</members>
         <members>SimilarProperties</members>
         <members>SmartHome</members>
         <members>SmartHomeCard</members>
