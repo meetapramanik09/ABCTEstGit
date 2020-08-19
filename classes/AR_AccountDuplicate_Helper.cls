@@ -7,18 +7,15 @@
 public class AR_AccountDuplicate_Helper {
     //Added a comment for UST 03
     //modified to test
-    //added comment on Aug onchange
        Public List<Account> CreateAccount(String s, String p){
         List<Account> a = new List<Account>();
-        //added comment on Aug onchange
             for(Account Acc:a)
+            // Added a test comment for pull request
             {
                 Acc.Name=s;
                 Acc.phone=p;
-                //added comment on Aug onchange
                 insert a;
             }
         return a;
-        //added comment on Aug onchange
     }
 }
