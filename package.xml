@@ -2634,6 +2634,10 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>IframeWhiteListUrlSettings</members>
+        <name>IframeWhiteListUrlSettings</name>
+    </types>
+    <types>
         <members>Dashboard_Pal</members>
         <members>TrailAR</members>
         <members>amazonconnect</members>
