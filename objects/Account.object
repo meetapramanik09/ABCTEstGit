@@ -232,6 +232,17 @@
     <enableHistory>true</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>ABC_Deploy__c</fullName>
+        <externalId>false</externalId>
+        <label>ABC Deploy</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -345,6 +356,11 @@
                     <default>false</default>
                     <label>zebra</label>
                 </value>
+                <value>
+                    <fullName>added value</fullName>
+                    <default>false</default>
+                    <label>added value</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -433,6 +449,17 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>BBBBB__c</fullName>
+        <externalId>false</externalId>
+        <label>BBBBB</label>
+        <length>32</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>BillingAddress</fullName>
