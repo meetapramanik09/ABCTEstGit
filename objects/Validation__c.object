@@ -156,7 +156,7 @@
     <fields>
         <fullName>test12__c</fullName>
         <externalId>false</externalId>
-        <label>test12e</label>
+        <label>test12</label>
         <length>21</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -168,7 +168,7 @@
         <label>Validation Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>rerersdawerwerw</pluralLabel>
+    <pluralLabel>rerer</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
